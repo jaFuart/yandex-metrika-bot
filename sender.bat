@@ -1,0 +1,1 @@
+R CMD BATCH C:\Users\klyzv\Desktop\ym-bot\message.R
